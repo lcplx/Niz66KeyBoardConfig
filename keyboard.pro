@@ -1,51 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <66EC(S)Ble>
 <PredefinedCombo>
-<List SizeOfView="6" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0">
-<x ID="0" t1="alt back">
-<List SizeOfView="6" ViewStartAt="0" CursorPos="1" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0">
-<x ID="0" t1="Right Alt">
 <List SizeOfView="6" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
-</x>
-<x ID="1" t1="LEFT ARROW">
-<List SizeOfView="6" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
-</x>
-</List>
-</x>
-</List>
 </PredefinedCombo>
 <PredefinedMacro>
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0">
-<x ID="0" t1="pass宏定义1">
-<List SizeOfView="9" ViewStartAt="50" CursorPos="8" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0">
+<x ID="0" t1="default">
+<List SizeOfView="9" ViewStartAt="54" CursorPos="8" Cycles="1" IsAutoInterval="0" Delay="0" PlayMode="0">
 <x ID="0" t1="Left SHIFT Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="1" t1="&lt;220 ms&gt;">
+<x ID="1" t1="&lt;283 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="2" t1="W Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="3" t1="&lt;100 ms&gt;">
+<x ID="3" t1="&lt;121 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="4" t1="Left SHIFT UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="5" t1="&lt;27 ms&gt;">
+<x ID="5" t1="&lt;44 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="6" t1="W UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="7" t1="&lt;123 ms&gt;">
+<x ID="7" t1="&lt;186 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="8" t1="I Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="9" t1="&lt;90 ms&gt;">
+<x ID="9" t1="&lt;100 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="10" t1="N Down">
@@ -57,142 +46,154 @@
 <x ID="12" t1="I UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="13" t1="&lt;32 ms&gt;">
+<x ID="13" t1="&lt;56 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="14" t1="T Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="15" t1="&lt;27 ms&gt;">
+<x ID="15" t1="&lt;11 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="16" t1="N UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="17" t1="&lt;65 ms&gt;">
+<x ID="17" t1="&lt;57 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="18" t1="E Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="19" t1="&lt;12 ms&gt;">
+<x ID="19" t1="&lt;28 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="20" t1="T UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="21" t1="&lt;95 ms&gt;">
+<x ID="21" t1="&lt;79 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="22" t1="R Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="23" t1="&lt;61 ms&gt;">
+<x ID="23" t1="&lt;132 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="24" t1="E UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="25" t1="&lt;57 ms&gt;">
+<x ID="25" t1="&lt;36 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="26" t1="R UP">
+<x ID="26" t1="Left SHIFT Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="27" t1="&lt;655 ms&gt;">
+<x ID="27" t1="&lt;4 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="28" t1="Left SHIFT Down">
+<x ID="28" t1="R UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="29" t1="&lt;175 ms&gt;">
+<x ID="29" t1="&lt;227 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="30" t1="2 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="31" t1="&lt;68 ms&gt;">
+<x ID="31" t1="&lt;71 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="32" t1="Left SHIFT UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="33" t1="&lt;36 ms&gt;">
+<x ID="33" t1="&lt;48 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="34" t1="2 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="35" t1="&lt;150 ms&gt;">
+<x ID="35" t1="&lt;175 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="36" t1="1 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="37" t1="&lt;90 ms&gt;">
+<x ID="37" t1="&lt;100 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="38" t1="1 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="39" t1="&lt;59 ms&gt;">
+<x ID="39" t1="&lt;55 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="40" t1="1 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="41" t1="&lt;109 ms&gt;">
+<x ID="41" t1="&lt;105 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="42" t1="1 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="43" t1="&lt;125 ms&gt;">
+<x ID="43" t1="&lt;124 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="44" t1="2 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="45" t1="&lt;82 ms&gt;">
+<x ID="45" t1="&lt;84 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="46" t1="2 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="47" t1="&lt;72 ms&gt;">
+<x ID="47" t1="&lt;70 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="48" t1="2 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="49" t1="&lt;101 ms&gt;">
+<x ID="49" t1="&lt;116 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="50" t1="2 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="51" t1="&lt;126 ms&gt;">
+<x ID="51" t1="&lt;140 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="52" t1="3 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="53" t1="&lt;70 ms&gt;">
+<x ID="53" t1="&lt;73 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="54" t1="3 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="55" t1="&lt;73 ms&gt;">
+<x ID="55" t1="&lt;87 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="56" t1="3 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="57" t1="&lt;85 ms&gt;">
+<x ID="57" t1="&lt;90 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="58" t1="3 UP">
+<List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
+</x>
+<x ID="59" t1="&lt;212 ms&gt;">
+<List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
+</x>
+<x ID="60" t1="ENTER Down">
+<List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
+</x>
+<x ID="61" t1="&lt;64 ms&gt;">
+<List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
+</x>
+<x ID="62" t1="ENTER UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 </List>
@@ -203,72 +204,72 @@
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </PredefinedEmu>
 <BackgroundLightSettings>
-<AREA ID="1" Red="0" Green="0" Blue="0"/>
-<AREA ID="2" Red="0" Green="0" Blue="0"/>
-<AREA ID="3" Red="0" Green="0" Blue="0"/>
-<AREA ID="4" Red="0" Green="0" Blue="0"/>
-<AREA ID="5" Red="0" Green="0" Blue="0"/>
-<AREA ID="6" Red="0" Green="0" Blue="0"/>
-<AREA ID="7" Red="0" Green="0" Blue="0"/>
-<AREA ID="8" Red="0" Green="0" Blue="0"/>
-<AREA ID="9" Red="0" Green="0" Blue="0"/>
-<AREA ID="10" Red="0" Green="0" Blue="0"/>
-<AREA ID="11" Red="0" Green="0" Blue="0"/>
-<AREA ID="12" Red="0" Green="0" Blue="0"/>
-<AREA ID="13" Red="0" Green="0" Blue="0"/>
-<AREA ID="14" Red="0" Green="0" Blue="0"/>
-<AREA ID="15" Red="0" Green="0" Blue="0"/>
-<AREA ID="16" Red="0" Green="0" Blue="0"/>
-<AREA ID="17" Red="0" Green="0" Blue="0"/>
-<AREA ID="18" Red="0" Green="0" Blue="0"/>
-<AREA ID="19" Red="0" Green="0" Blue="0"/>
-<AREA ID="20" Red="0" Green="0" Blue="0"/>
-<AREA ID="21" Red="0" Green="0" Blue="0"/>
-<AREA ID="22" Red="0" Green="0" Blue="0"/>
-<AREA ID="23" Red="0" Green="0" Blue="0"/>
-<AREA ID="24" Red="0" Green="0" Blue="0"/>
-<AREA ID="25" Red="0" Green="0" Blue="0"/>
-<AREA ID="26" Red="0" Green="0" Blue="0"/>
-<AREA ID="27" Red="0" Green="0" Blue="0"/>
-<AREA ID="28" Red="0" Green="0" Blue="0"/>
-<AREA ID="29" Red="0" Green="0" Blue="0"/>
-<AREA ID="30" Red="0" Green="0" Blue="0"/>
-<AREA ID="31" Red="0" Green="0" Blue="0"/>
-<AREA ID="32" Red="0" Green="0" Blue="0"/>
-<AREA ID="33" Red="0" Green="0" Blue="0"/>
-<AREA ID="34" Red="0" Green="0" Blue="0"/>
-<AREA ID="35" Red="0" Green="0" Blue="0"/>
-<AREA ID="36" Red="0" Green="0" Blue="0"/>
-<AREA ID="37" Red="0" Green="0" Blue="0"/>
-<AREA ID="38" Red="0" Green="0" Blue="0"/>
-<AREA ID="39" Red="0" Green="0" Blue="0"/>
-<AREA ID="40" Red="0" Green="0" Blue="0"/>
-<AREA ID="41" Red="0" Green="0" Blue="0"/>
-<AREA ID="42" Red="0" Green="0" Blue="0"/>
-<AREA ID="43" Red="0" Green="0" Blue="0"/>
-<AREA ID="44" Red="0" Green="0" Blue="0"/>
-<AREA ID="45" Red="0" Green="0" Blue="0"/>
-<AREA ID="46" Red="0" Green="0" Blue="0"/>
-<AREA ID="47" Red="0" Green="0" Blue="0"/>
-<AREA ID="48" Red="0" Green="0" Blue="0"/>
-<AREA ID="49" Red="0" Green="0" Blue="0"/>
-<AREA ID="50" Red="0" Green="0" Blue="0"/>
-<AREA ID="51" Red="0" Green="0" Blue="0"/>
-<AREA ID="52" Red="0" Green="0" Blue="0"/>
-<AREA ID="53" Red="0" Green="0" Blue="0"/>
-<AREA ID="54" Red="0" Green="0" Blue="0"/>
-<AREA ID="55" Red="0" Green="0" Blue="0"/>
-<AREA ID="56" Red="0" Green="0" Blue="0"/>
-<AREA ID="57" Red="0" Green="0" Blue="0"/>
-<AREA ID="58" Red="0" Green="0" Blue="0"/>
-<AREA ID="59" Red="0" Green="0" Blue="0"/>
-<AREA ID="60" Red="0" Green="0" Blue="0"/>
-<AREA ID="61" Red="0" Green="0" Blue="0"/>
-<AREA ID="62" Red="0" Green="0" Blue="0"/>
-<AREA ID="63" Red="0" Green="0" Blue="0"/>
-<AREA ID="64" Red="0" Green="0" Blue="0"/>
-<AREA ID="65" Red="0" Green="0" Blue="0"/>
-<AREA ID="66" Red="0" Green="0" Blue="0"/>
+<AREA ID="1" Red="0" Green="255" Blue="0"/>
+<AREA ID="2" Red="255" Green="0" Blue="0"/>
+<AREA ID="3" Red="255" Green="0" Blue="0"/>
+<AREA ID="4" Red="255" Green="0" Blue="0"/>
+<AREA ID="5" Red="255" Green="0" Blue="0"/>
+<AREA ID="6" Red="255" Green="0" Blue="0"/>
+<AREA ID="7" Red="255" Green="0" Blue="0"/>
+<AREA ID="8" Red="255" Green="0" Blue="0"/>
+<AREA ID="9" Red="255" Green="0" Blue="0"/>
+<AREA ID="10" Red="255" Green="0" Blue="0"/>
+<AREA ID="11" Red="255" Green="0" Blue="0"/>
+<AREA ID="12" Red="255" Green="0" Blue="0"/>
+<AREA ID="13" Red="255" Green="0" Blue="0"/>
+<AREA ID="14" Red="255" Green="0" Blue="0"/>
+<AREA ID="15" Red="0" Green="255" Blue="0"/>
+<AREA ID="16" Red="0" Green="255" Blue="0"/>
+<AREA ID="17" Red="255" Green="0" Blue="255"/>
+<AREA ID="18" Red="255" Green="0" Blue="255"/>
+<AREA ID="19" Red="255" Green="0" Blue="255"/>
+<AREA ID="20" Red="255" Green="0" Blue="255"/>
+<AREA ID="21" Red="255" Green="0" Blue="255"/>
+<AREA ID="22" Red="255" Green="0" Blue="255"/>
+<AREA ID="23" Red="255" Green="0" Blue="255"/>
+<AREA ID="24" Red="255" Green="255" Blue="0"/>
+<AREA ID="25" Red="255" Green="255" Blue="0"/>
+<AREA ID="26" Red="255" Green="255" Blue="0"/>
+<AREA ID="27" Red="255" Green="0" Blue="255"/>
+<AREA ID="28" Red="255" Green="0" Blue="255"/>
+<AREA ID="29" Red="0" Green="255" Blue="0"/>
+<AREA ID="30" Red="0" Green="255" Blue="0"/>
+<AREA ID="31" Red="255" Green="0" Blue="255"/>
+<AREA ID="32" Red="255" Green="0" Blue="255"/>
+<AREA ID="33" Red="255" Green="0" Blue="255"/>
+<AREA ID="34" Red="255" Green="0" Blue="255"/>
+<AREA ID="35" Red="255" Green="0" Blue="255"/>
+<AREA ID="36" Red="255" Green="0" Blue="255"/>
+<AREA ID="37" Red="255" Green="0" Blue="255"/>
+<AREA ID="38" Red="255" Green="255" Blue="0"/>
+<AREA ID="39" Red="255" Green="255" Blue="0"/>
+<AREA ID="40" Red="255" Green="255" Blue="0"/>
+<AREA ID="41" Red="255" Green="0" Blue="255"/>
+<AREA ID="42" Red="0" Green="255" Blue="0"/>
+<AREA ID="43" Red="0" Green="255" Blue="0"/>
+<AREA ID="44" Red="255" Green="0" Blue="255"/>
+<AREA ID="45" Red="255" Green="0" Blue="255"/>
+<AREA ID="46" Red="255" Green="0" Blue="255"/>
+<AREA ID="47" Red="255" Green="0" Blue="255"/>
+<AREA ID="48" Red="255" Green="0" Blue="255"/>
+<AREA ID="49" Red="255" Green="0" Blue="255"/>
+<AREA ID="50" Red="255" Green="0" Blue="255"/>
+<AREA ID="51" Red="255" Green="255" Blue="0"/>
+<AREA ID="52" Red="255" Green="255" Blue="0"/>
+<AREA ID="53" Red="255" Green="255" Blue="0"/>
+<AREA ID="54" Red="0" Green="0" Blue="255"/>
+<AREA ID="55" Red="0" Green="255" Blue="0"/>
+<AREA ID="56" Red="0" Green="255" Blue="0"/>
+<AREA ID="57" Red="0" Green="255" Blue="255"/>
+<AREA ID="58" Red="0" Green="255" Blue="0"/>
+<AREA ID="59" Red="0" Green="255" Blue="0"/>
+<AREA ID="60" Red="255" Green="0" Blue="255"/>
+<AREA ID="61" Red="0" Green="255" Blue="255"/>
+<AREA ID="62" Red="0" Green="255" Blue="0"/>
+<AREA ID="63" Red="0" Green="255" Blue="0"/>
+<AREA ID="64" Red="0" Green="0" Blue="255"/>
+<AREA ID="65" Red="0" Green="0" Blue="255"/>
+<AREA ID="66" Red="0" Green="0" Blue="255"/>
 </BackgroundLightSettings>
 <CurrentSettings>
 <KEY ID="1" Level="0" Mode="1" HWCode="1">
@@ -501,12 +502,12 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="16" Level="1" Mode="0" HWCode="0">
+<KEY ID="16" Level="1" Mode="1" HWCode="28">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="16" Level="2" Mode="0" HWCode="0">
+<KEY ID="16" Level="2" Mode="1" HWCode="28">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -913,12 +914,12 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="43" Level="1" Mode="0" HWCode="0">
+<KEY ID="43" Level="1" Mode="1" HWCode="55">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="43" Level="2" Mode="0" HWCode="0">
+<KEY ID="43" Level="2" Mode="1" HWCode="55">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
@@ -975,35 +976,35 @@
 </KEY>
 <KEY ID="47" Level="1" Mode="3" HWCode="0">
 <ComboKey>
-<List SizeOfView="9" ViewStartAt="50" CursorPos="8" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0">
+<List SizeOfView="9" ViewStartAt="54" CursorPos="8" Cycles="1" IsAutoInterval="0" Delay="0" PlayMode="0">
 <x ID="0" t1="Left SHIFT Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="1" t1="&lt;220 ms&gt;">
+<x ID="1" t1="&lt;283 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="2" t1="W Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="3" t1="&lt;100 ms&gt;">
+<x ID="3" t1="&lt;121 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="4" t1="Left SHIFT UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="5" t1="&lt;27 ms&gt;">
+<x ID="5" t1="&lt;44 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="6" t1="W UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="7" t1="&lt;123 ms&gt;">
+<x ID="7" t1="&lt;186 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="8" t1="I Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="9" t1="&lt;90 ms&gt;">
+<x ID="9" t1="&lt;100 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="10" t1="N Down">
@@ -1015,142 +1016,154 @@
 <x ID="12" t1="I UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="13" t1="&lt;32 ms&gt;">
+<x ID="13" t1="&lt;56 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="14" t1="T Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="15" t1="&lt;27 ms&gt;">
+<x ID="15" t1="&lt;11 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="16" t1="N UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="17" t1="&lt;65 ms&gt;">
+<x ID="17" t1="&lt;57 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="18" t1="E Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="19" t1="&lt;12 ms&gt;">
+<x ID="19" t1="&lt;28 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="20" t1="T UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="21" t1="&lt;95 ms&gt;">
+<x ID="21" t1="&lt;79 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="22" t1="R Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="23" t1="&lt;61 ms&gt;">
+<x ID="23" t1="&lt;132 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="24" t1="E UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="25" t1="&lt;57 ms&gt;">
+<x ID="25" t1="&lt;36 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="26" t1="R UP">
+<x ID="26" t1="Left SHIFT Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="27" t1="&lt;655 ms&gt;">
+<x ID="27" t1="&lt;4 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="28" t1="Left SHIFT Down">
+<x ID="28" t1="R UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="29" t1="&lt;175 ms&gt;">
+<x ID="29" t1="&lt;227 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="30" t1="2 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="31" t1="&lt;68 ms&gt;">
+<x ID="31" t1="&lt;71 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="32" t1="Left SHIFT UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="33" t1="&lt;36 ms&gt;">
+<x ID="33" t1="&lt;48 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="34" t1="2 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="35" t1="&lt;150 ms&gt;">
+<x ID="35" t1="&lt;175 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="36" t1="1 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="37" t1="&lt;90 ms&gt;">
+<x ID="37" t1="&lt;100 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="38" t1="1 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="39" t1="&lt;59 ms&gt;">
+<x ID="39" t1="&lt;55 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="40" t1="1 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="41" t1="&lt;109 ms&gt;">
+<x ID="41" t1="&lt;105 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="42" t1="1 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="43" t1="&lt;125 ms&gt;">
+<x ID="43" t1="&lt;124 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="44" t1="2 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="45" t1="&lt;82 ms&gt;">
+<x ID="45" t1="&lt;84 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="46" t1="2 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="47" t1="&lt;72 ms&gt;">
+<x ID="47" t1="&lt;70 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="48" t1="2 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="49" t1="&lt;101 ms&gt;">
+<x ID="49" t1="&lt;116 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="50" t1="2 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="51" t1="&lt;126 ms&gt;">
+<x ID="51" t1="&lt;140 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="52" t1="3 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="53" t1="&lt;70 ms&gt;">
+<x ID="53" t1="&lt;73 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="54" t1="3 UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="55" t1="&lt;73 ms&gt;">
+<x ID="55" t1="&lt;87 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="56" t1="3 Down">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
-<x ID="57" t1="&lt;85 ms&gt;">
+<x ID="57" t1="&lt;90 ms&gt;">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 <x ID="58" t1="3 UP">
+<List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
+</x>
+<x ID="59" t1="&lt;212 ms&gt;">
+<List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
+</x>
+<x ID="60" t1="ENTER Down">
+<List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
+</x>
+<x ID="61" t1="&lt;64 ms&gt;">
+<List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
+</x>
+<x ID="62" t1="ENTER UP">
 <List SizeOfView="9" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </x>
 </List>
@@ -1296,17 +1309,17 @@
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="57" Level="0" Mode="1" HWCode="42">
+<KEY ID="57" Level="0" Mode="7" HWCode="166">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="57" Level="1" Mode="0" HWCode="166">
+<KEY ID="57" Level="1" Mode="7" HWCode="166">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
 </KEY>
-<KEY ID="57" Level="2" Mode="0" HWCode="166">
+<KEY ID="57" Level="2" Mode="7" HWCode="166">
 <ComboKey>
 <List SizeOfView="0" ViewStartAt="0" CursorPos="0" Cycles="1" IsAutoInterval="0" Delay="30" PlayMode="0"/>
 </ComboKey>
